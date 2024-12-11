@@ -4,4 +4,4 @@ So uh. This is just a repo of macOS wallpapers. Yeah. They are from High Sierra 
 Btw, if you're wondering what's in the Releases, it's just a .zip of the wallpapers.
 
 > [!NOTE]
-> I do NOT own these wallpapers. They are created with :heart: (love) and :cry: (tears) from Apple Inc. (and also this fork is from @foxt )
+> I do NOT own these wallpapers. They are created with :heart: (love) and :cry: (tears) from Apple Inc. (and also this fork is from @foxt)
